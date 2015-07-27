@@ -1,0 +1,4 @@
+#wplpui_metabox_section label{display: block; padding: 10px; margin-bottom: 10px;}
+#wplpui_metabox_section label:nth-child(even){background-color: #eee; border-top: 1px solid #eee; border-bottom: 2px solid #ddd;}
+#wplpui_metabox_section label span{display: inline-block; min-width: 29%;}
+#wplpui_metabox_section label span + *{display: inline-block; min-width: 70%; border: none; outline: none; box-shadow: 2px 2px 3px 0 #ddd inset;}
