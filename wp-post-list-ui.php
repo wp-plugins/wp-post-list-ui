@@ -4,7 +4,7 @@
 	Plugin Name: WP Post List UI 
 	Author: Rajesh Kumar Sharma
 	Author URI: http://sitextensions.com/
-	Plugin URI: http://sa.wordpress.org/plugins/wp-post-list-ui/
+	Plugin URI: http://wordpress.org/plugins/wp-post-list-ui/
 	Version: 1.1
 	Description: List the post by make the custom list.
 */
